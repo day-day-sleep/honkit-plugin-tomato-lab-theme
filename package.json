@@ -1,0 +1,30 @@
+{
+  "name": "honkit-plugin-tomato-lab-theme",
+  "version": "1.0.1",
+  "description": "use tomato lab web theme for honkit",
+  "main": "index.js",
+  "author": "day-day-sleep",
+  "license": "Apache-2.0",
+  "engines": {
+    "honkit": ">1.x.x"
+  },
+  "prettier": {
+    "tabWidth": 4,
+    "printWidth": 120,
+    "semi": true
+  },
+  "homepage": "https://github.com/day-day-sleep/honkit-plugin-tomato-lab-theme",
+  "keywords": [
+    "theme",
+    "tomato-lab",
+    "honkit",
+    "gitbook"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/day-day-sleep/honkit-plugin-tomato-lab-theme"
+  },
+  "bugs": {
+    "url": "https://github.com/day-day-sleep/honkit-plugin-tomato-lab-theme/issues"
+  }
+}
