@@ -1,6 +1,6 @@
 {
   "name": "honkit-plugin-tomato-lab-theme",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "use tomato lab web theme for honkit",
   "main": "index.js",
   "author": "day-day-sleep",
