@@ -23,14 +23,14 @@ Add settings to book.json
 
 support(url)
 
-### url: gitlab issue url (url cannot be omitted.)
+### url: email subscribe api (url cannot be omitted.)
 
 ```json
 {
   "plugins": ["tomato-lab-theme"],
   "pluginsConfig": {
     "tomato-lab-theme": {
-      "url": "api"
+      "url": "email subscribe api"
     }
   }
 }
